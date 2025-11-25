@@ -2,7 +2,7 @@
 
 Bem-vindo ao projeto.
 
-Como executar 
+Como executar?
 
 Abra o pgAdmin e conecte-se ao servidor PostgreSQL.
 
