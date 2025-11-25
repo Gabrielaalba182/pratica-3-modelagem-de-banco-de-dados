@@ -1,6 +1,6 @@
 # Sistema de Gestão de Academia (SGA)
 
-Bem-vindo ao site oficial do projeto.
+Bem-vindo ao projeto.
 
 ## 📌 Scripts SQL
 - [schema.sql](schema.sql)
